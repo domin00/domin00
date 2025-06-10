@@ -13,7 +13,7 @@ I'm a **Data Engineer** & **Tech Enthusiast** passionate about building scalable
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python, SQL, JavaScript
-- **Frameworks & Tools:** PySpark, Databricks, Airflow, React, Flask, FastAPI, Node
+- **Frameworks & Tools:** dbt, PySpark, Databricks, Airflow, React, Flask, FastAPI, Node
 - **Cloud & Data:** AWS, Azure, GCP
 - **DevOps:** Docker, GitHub Actions
 
